@@ -49,3 +49,5 @@ Languages: English, Chinese (Simplified), Korean, Japanese, French, Spanish, Ger
 Retirement date: none
 
 This exam measures your ability to accomplish the following technical tasks: manage Azure identities and governance; implement and manage storage; deploy and manage Azure compute resources; configure and manage virtual networking; and monitor and maintain Azure resources.
+
+Retirement date: none
